@@ -408,12 +408,17 @@
 
 	<noscript>Your browser does not support JavaScript!</noscript>
 
-	<!-- header -->
-	<?php include 'header.php';?>
-	<!-- main -->
-	<?php include 'main.php';?>
-	<!-- right -->
-	<?php include 'footer.php';?>
+	<!-- header
+	<?php include 'header.php';?> -->
+	<div data-blocks="header.php"></div>
+	
+	<!-- main
+	<?php include 'main.php';?> -->
+	<div data-blocks="main.php"></div>
+	
+	<!-- right
+	<?php include 'footer.php';?> -->
+	<div data-blocks="footer.php"></div>
 	
 	<!-- Light / Dark Mode Switch -->
 	<div class="switch">
