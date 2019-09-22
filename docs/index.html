@@ -82,8 +82,8 @@
     <!-- ASSETS - Load jQuery Files -->
     <script src="/plugins/jQuery/jquery-3.4.1.min.js" rel="text/javascript"></script>
 	
-    <!--  PLUGINS - Required! -  Load the JavaScript Blocks Loader Files -->
-    <script src="../plugins/FilesLoader/BlocksLoader.js" rel="text/javascript"></script>
+    <!--  PLUGINS - Required! -  Load the JavaScript Blocks Loader Files
+    <script src="../plugins/FilesLoader/BlocksLoader.js" rel="text/javascript"></script> -->
 
     <!-- PLUGINS - Required! -  BootStrap JS -->
     <script src="/plugins/BootStrap/js/bootstrap.min.js" rel="text/javascript"></script>
@@ -410,7 +410,9 @@
 
 	<!-- header
 	<?php include 'header.php';?> -->
-	<div data-blocks="/header.html"></div>
+	<!--#include virtual="/header.html" -->
+	<br/><br/>
+	<!--#include file="/header.html" -->
 	
 	<!-- main
 	<?php include 'main.php';?> -->
