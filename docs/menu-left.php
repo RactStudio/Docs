@@ -1,4 +1,4 @@
-	<!-- Products Images, Ads Rotation  and Ads Countdown -->
+	<!-- Docs Images, Ads Rotation  and Ads Countdown -->
 	<script type="text/javascript">
 		function rotateDocsEvery(sec)
 		{
@@ -90,7 +90,7 @@
 		}
 	</script>
 
-	<!-- Products Images and Ads Rotation Styles -->
+	<!-- Docs Images and Ads Rotation Styles -->
     <style type="text/css">
 		.adsRStitle {
 			margin: 15px;
