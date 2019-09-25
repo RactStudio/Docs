@@ -60,7 +60,7 @@
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hidden-print">
 
         <!-- Left Sidebar -->
-        <?php include '../menu-left.php';?>
+		<div rs-include-html="../menu-left.php"></div>
 
     </div>
 
@@ -68,8 +68,8 @@
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
         <div class="rs-content">
 			
-		<!-- Docs Content -->
-		<?php include 'docs-content.php';?>
+			<!-- Docs Content -->
+	<div rs-include-html="docs-content.php"></div>
 		
         </div>
     </div>
@@ -77,8 +77,8 @@
     <!-- Column Right --->
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 hidden-print">
 
-        <!-- Right Sidebar -->
-        <?php include 'menu-right.php';?>
+			<!-- Right Sidebar -->
+	<div rs-include-html="menu-right.php"></div>
 
     </div>
 
