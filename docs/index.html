@@ -82,15 +82,46 @@
     <!-- ASSETS - Load jQuery Files -->
     <script src="/plugins/jQuery/jquery-3.4.1.min.js" rel="text/javascript"></script>
 	
-    <!--  PLUGINS - Required! -  Load the JavaScript Blocks Loader Files
-    <script src="../plugins/FilesLoader/BlocksLoader.js" rel="text/javascript"></script> -->
-
+    <!--  PLUGINS - Required! -  Load the JavaScript Blocks Loader Files -->
+    <script src="../plugins/FilesLoader/BlocksLoader.js" rel="text/javascript"></script>
+	
     <!-- PLUGINS - Required! -  BootStrap JS -->
     <script src="/plugins/BootStrap/js/bootstrap.min.js" rel="text/javascript"></script>
 
     <!--  PLUGINS - BootStrap's third party JS! -->
     <script src="/assets/js/popper.min.js" rel="text/javascript"></script>
 	
+	<!--  ALL PLUGINS JS - Add or Remove based on your needs! -->
+
+	<!-- FontAwesome Plugin JS -->
+	<script type="text/javascript" src="/plugins/FontAwesome/js/all.min.js"></script>
+		
+	<!-- jPList lib -->
+	<script src="/plugins/jpList/js/jplist.core.min.js"></script>
+
+	<script src="/plugins/jpList/js/jplist.bootstrap-filter-dropdown.min.js"></script>
+	<script src="/plugins/jpList/js/jplist.bootstrap-pagination-bundle.min.js"></script>
+	<script src="/plugins/jpList/js/jplist.bootstrap-sort-dropdown.min.js"></script>
+
+	<!-- jplist views control -->
+	<script src="/plugins/jpList/js/jplist.list-grid-view.min.js"></script>
+	<link href="/plugins/jpList/css/jplist.list-grid-view.min.css" rel="stylesheet" type="text/css" />
+
+    <!-- jPList sort bundle -->
+    <script src="/plugins/jpList/js/jplist.sort-bundle.min.js"></script>
+
+    <!-- jPList textbox filter control -->
+    <script src="/plugins/jpList/js/jplist.textbox-filter.min.js"></script>
+    <!--<link href="/plugins/jpList/css/jplist.textbox-filter.min.css" rel="stylesheet" type="text/css" /> -->
+
+    <!-- jPList history bundle -->
+    <script src="/plugins/jpList/js/jplist.history-bundle.min.js"></script>
+     <!--<link href="/plugins/jpList/css/jplist.history-bundle.min.css" rel="stylesheet" type="text/css" /> -->
+
+    <!-- jPList toggle bundle -->
+    <script src="/plugins/jpList/js/jplist.filter-toggle-bundle.min.js"></script>
+    <!-- <link href="/plugins/jpList/css/jplist.filter-toggle-bundle.min.css" rel="stylesheet" type="text/css" /> -->
+
 	<!-- Products List additional styles -->
 	<style type="text/css">
 		.rs-config-box {
@@ -401,27 +432,22 @@
 		opacity: 1;
 	}
 	</style>
-	
+
 </head>
 
 <body class="light" onload="rotateDocsEvery(10);rotateProductsEvery(10);ads_countdown();products_countdown();">
 
 	<noscript>Your browser does not support JavaScript!</noscript>
 
-	<!-- header
-	<?php include 'header.php';?> -->
-	<!--#include virtual="/header.html" -->
-	<br/><br/>
-	<!--#include file="/header.html" -->
+	<!-- header -->
+	<div rs-include-html="header.php"></div>
+	<!-- main -->
+	<div rs-include-html="main.php"></div>
+	<!-- right -->
+	<div rs-include-html="footer.php"></div>
 	
-	<!-- main
-	<?php include 'main.php';?> -->
-	<div data-blocks="main.html"></div>
-	
-	<!-- right
-	<?php include 'footer.php';?> -->
-	<div data-blocks="/footer.html"></div>
-	
+	<script>includeHTML();</script>
+
 	<!-- Light / Dark Mode Switch -->
 	<div class="switch">
 		<div class="circle"></div>
@@ -435,92 +461,61 @@
 	</div>
 	
 	<!-- Light / Dark Mode and Scroll Top with Progress -->
-<script type="text/javascript">
-(function($) { "use strict";
+	<script type="text/javascript">
+	(function($) { "use strict";
 
-	//Switch dark/light
-	
-	$(".switch").on('click', function () {
-		if ($("body").hasClass("light")) {
-			$("body").removeClass("light");
-			$(".switch").removeClass("switched");
-		}
-		else {
-			$("body").addClass("light");
-			$(".switch").addClass("switched");
-		}
-	});
-	
-	$(document).ready(function(){"use strict";
-	
-	//Scroll back to top
-	
-		var progressPath = document.querySelector('.progress-wrap path');
-		var pathLength = progressPath.getTotalLength();
-		progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
-		progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
-		progressPath.style.strokeDashoffset = pathLength;
-		progressPath.getBoundingClientRect();
-		progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';		
-		var updateProgress = function () {
-			var scroll = $(window).scrollTop();
-			var height = $(document).height() - $(window).height();
-			var progress = pathLength - (scroll * pathLength / height);
-			progressPath.style.strokeDashoffset = progress;
-		}
-		updateProgress();
-		$(window).scroll(updateProgress);	
-		var offset = 50;
-		var duration = 550;
-		jQuery(window).on('scroll', function() {
-			if (jQuery(this).scrollTop() > offset) {
-				jQuery('.progress-wrap').addClass('active-progress');
-			} else {
-				jQuery('.progress-wrap').removeClass('active-progress');
+		//Switch dark/light
+		
+		$(".switch").on('click', function () {
+			if ($("body").hasClass("light")) {
+				$("body").removeClass("light");
+				$(".switch").removeClass("switched");
 			}
-		});				
-		jQuery('.progress-wrap').on('click', function(event) {
-			event.preventDefault();
-			jQuery('html, body').animate({scrollTop: 0}, duration);
-			return false;
-		})
+			else {
+				$("body").addClass("light");
+				$(".switch").addClass("switched");
+			}
+		});
 		
+		$(document).ready(function(){"use strict";
 		
-	});
-	
-})(jQuery); 
-</script>
-
-	<!--  ALL PLUGINS JS - Add or Remove based on your needs! -->
-
-	<!-- FontAwesome Plugin JS -->
-	<script type="text/javascript" src="/plugins/FontAwesome/js/all.min.js"></script>
+		//Scroll back to top
 		
-	<!-- jPList lib -->
-	<script src="/plugins/jpList/js/jplist.core.min.js"></script>
-
-	<script src="/plugins/jpList/js/jplist.bootstrap-filter-dropdown.min.js"></script>
-	<script src="/plugins/jpList/js/jplist.bootstrap-pagination-bundle.min.js"></script>
-	<script src="/plugins/jpList/js/jplist.bootstrap-sort-dropdown.min.js"></script>
-
-	<!-- jplist views control -->
-	<script src="/plugins/jpList/js/jplist.list-grid-view.min.js"></script>
-	<link href="/plugins/jpList/css/jplist.list-grid-view.min.css" rel="stylesheet" type="text/css" />
-
-    <!-- jPList sort bundle -->
-    <script src="/plugins/jpList/js/jplist.sort-bundle.min.js"></script>
-
-    <!-- jPList textbox filter control -->
-    <script src="/plugins/jpList/js/jplist.textbox-filter.min.js"></script>
-    <!--<link href="/plugins/jpList/css/jplist.textbox-filter.min.css" rel="stylesheet" type="text/css" /> -->
-
-    <!-- jPList history bundle -->
-    <script src="/plugins/jpList/js/jplist.history-bundle.min.js"></script>
-     <!--<link href="/plugins/jpList/css/jplist.history-bundle.min.css" rel="stylesheet" type="text/css" /> -->
-
-    <!-- jPList toggle bundle -->
-    <script src="/plugins/jpList/js/jplist.filter-toggle-bundle.min.js"></script>
-    <!-- <link href="/plugins/jpList/css/jplist.filter-toggle-bundle.min.css" rel="stylesheet" type="text/css" /> -->
+			var progressPath = document.querySelector('.progress-wrap path');
+			var pathLength = progressPath.getTotalLength();
+			progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
+			progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
+			progressPath.style.strokeDashoffset = pathLength;
+			progressPath.getBoundingClientRect();
+			progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';		
+			var updateProgress = function () {
+				var scroll = $(window).scrollTop();
+				var height = $(document).height() - $(window).height();
+				var progress = pathLength - (scroll * pathLength / height);
+				progressPath.style.strokeDashoffset = progress;
+			}
+			updateProgress();
+			$(window).scroll(updateProgress);	
+			var offset = 50;
+			var duration = 550;
+			jQuery(window).on('scroll', function() {
+				if (jQuery(this).scrollTop() > offset) {
+					jQuery('.progress-wrap').addClass('active-progress');
+				} else {
+					jQuery('.progress-wrap').removeClass('active-progress');
+				}
+			});				
+			jQuery('.progress-wrap').on('click', function(event) {
+				event.preventDefault();
+				jQuery('html, body').animate({scrollTop: 0}, duration);
+				return false;
+			})
+			
+			
+		});
+		
+	})(jQuery); 
+	</script>
 
 	<!-- Document Ready JavaScript Code / jPList / Bootstrap -->
 	<script type="text/javascript">
