@@ -4,7 +4,7 @@
 		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					
 				<!-- Left Sidebar -->
-				<?php include 'menu-left.php';?>
+				<div rs-include-html="menu-left.php"></div>
 				
 		</div>
 
@@ -381,7 +381,7 @@
 				<div class="list row">
 					
 					<!-- jplist Products List -->
-					<?php include 'products-list.php';?>
+				<div rs-include-html="products-list.php"></div>
 					
 				</div>
 				
@@ -455,7 +455,7 @@
 		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 				
 				<!-- Right Sidebar -->
-				<?php include 'menu-right.php';?>
+				<div rs-include-html="menu-right.php"></div>
 				
 		</div>
 
