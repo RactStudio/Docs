@@ -87,7 +87,7 @@
 
     <!--  PLUGINS - BootStrap's third party JS! -->
     <script src="../assets/js/popper.min.js" rel="text/javascript"></script>
-	
+
     <!-- Products List additional styles -->
     <style type="text/css">
 		.bg-opacity {
@@ -340,11 +340,13 @@
 	<noscript>Your browser does not support JavaScript!</noscript>
 
 	<!-- header -->
-	<?php include '../header.php';?>
+	<div rs-include-html="../header.php"></div>
 	<!-- main -->
-	<?php include 'main.php';?>
+	<div rs-include-html="main.php"></div>
 	<!-- right -->
-	<?php include '../footer.php';?>
+	<div rs-include-html="../footer.php"></div>
+	
+	<script>includeHTML();</script>
 	
 	<!-- Light / Dark Mode Switch -->
 	<div class="switch hidden-print">
@@ -358,63 +360,6 @@
 		</svg>
 	</div>
 	
-	<!-- Light / Dark Mode and Scroll Top with Progress -->
-<script type="text/javascript">
-(function($) { "use strict";
-
-	//Switch dark/light
-	
-	$(".switch").on('click', function () {
-		if ($("body").hasClass("light")) {
-			$("body").removeClass("light");
-			$(".switch").removeClass("switched");
-		}
-		else {
-			$("body").addClass("light");
-			$(".switch").addClass("switched");
-		}
-	});
-	
-	$(document).ready(function(){"use strict";
-	
-	//Scroll back to top
-	
-		var progressPath = document.querySelector('.progress-wrap path');
-		var pathLength = progressPath.getTotalLength();
-		progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
-		progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
-		progressPath.style.strokeDashoffset = pathLength;
-		progressPath.getBoundingClientRect();
-		progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';		
-		var updateProgress = function () {
-			var scroll = $(window).scrollTop();
-			var height = $(document).height() - $(window).height();
-			var progress = pathLength - (scroll * pathLength / height);
-			progressPath.style.strokeDashoffset = progress;
-		}
-		updateProgress();
-		$(window).scroll(updateProgress);	
-		var offset = 50;
-		var duration = 550;
-		jQuery(window).on('scroll', function() {
-			if (jQuery(this).scrollTop() > offset) {
-				jQuery('.progress-wrap').addClass('active-progress');
-			} else {
-				jQuery('.progress-wrap').removeClass('active-progress');
-			}
-		});				
-		jQuery('.progress-wrap').on('click', function(event) {
-			event.preventDefault();
-			jQuery('html, body').animate({scrollTop: 0}, duration);
-			return false;
-		})
-		
-		
-	});
-	
-})(jQuery); 
-</script>
-
 	<!--  ALL PLUGINS JS - Add or Remove based on your needs! -->
 
 	<!-- FontAwesome Plugin JS -->
@@ -425,6 +370,61 @@
 	
 	<!-- ReadingBar Plugin JS -->
 	<script type="text/javascript" src="../plugins/ReadingBar/js/jquery.readingbar.js"></script>
+
+	<!-- Light / Dark Mode and Scroll Top with Progress -->
+	<script type="text/javascript">
+
+		//Switch dark/light
+		
+		$(".switch").on('click', function () {
+			if ($("body").hasClass("light")) {
+				$("body").removeClass("light");
+				$(".switch").removeClass("switched");
+			}
+			else {
+				$("body").addClass("light");
+				$(".switch").addClass("switched");
+			}
+		});
+		
+		$(document).ready(function(){
+		
+		//Scroll back to top
+		
+			var progressPath = document.querySelector('.progress-wrap path');
+			var pathLength = progressPath.getTotalLength();
+			progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
+			progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
+			progressPath.style.strokeDashoffset = pathLength;
+			progressPath.getBoundingClientRect();
+			progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';		
+			var updateProgress = function () {
+				var scroll = $(window).scrollTop();
+				var height = $(document).height() - $(window).height();
+				var progress = pathLength - (scroll * pathLength / height);
+				progressPath.style.strokeDashoffset = progress;
+			}
+			updateProgress();
+			$(window).scroll(updateProgress);	
+			var offset = 50;
+			var duration = 550;
+			jQuery(window).on('scroll', function() {
+				if (jQuery(this).scrollTop() > offset) {
+					jQuery('.progress-wrap').addClass('active-progress');
+				} else {
+					jQuery('.progress-wrap').removeClass('active-progress');
+				}
+			});				
+			jQuery('.progress-wrap').on('click', function(event) {
+				event.preventDefault();
+				jQuery('html, body').animate({scrollTop: 0}, duration);
+				return false;
+			})
+			
+			
+		});
+		
+	</script>
 
 	<!-- Document Ready JavaScript Code / Bootstrap -->
 	<script type="text/javascript">
