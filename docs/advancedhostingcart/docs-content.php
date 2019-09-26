@@ -19,7 +19,7 @@
 						<div class="hidden-xs col-sm-3">
 							<div class="productIcons img-thumbnail" style="margin-left:-15px;">
 								<a href="">
-									<img class="productIcon" src="/fliphostingcart/img/HostingCartIcon_Flip-200x200.png" alt="Flip Hosting Cart" title="Flip Hosting Cart" style="width:167px;"/>
+									<img class="productIcon" src="/advancedhostingcart/img/HostingCartIcon_Advanced-200x200.png" alt="Advanced Hosting Cart" title="Advanced Hosting Cart" style="width:167px;"/>
 									<span class="productType hidden">WHMCS ORDER FORM</span>
 								</a>
 							</div>
@@ -28,7 +28,7 @@
 						<div class="col-xs-12 col-sm-9">
 							<div class="productMeta">
 								<h1 style="margin:0;padding:0;">
-									<text class="rs-title">Flip Hosting Cart</text><br/>
+									<text class="rs-title">Advanced Hosting Cart</text><br/>
 								</h1>
 								<div class="row">
 									<div class="col-xs-12 col-sm-12">
@@ -38,7 +38,7 @@
 												<p><strong>Last Updated:</strong> 13 September 2019</p>
 												<p><strong>Software Version:</strong> v4.0.0</p>
 												<p class="hidden-xs hidden-print">
-													<a href="https://bit.ly/FlipHostingCart" target="_blank" class="btn btn-sm btn-rs-primary" style="margin:0px;font-size:100%;font-weight:600;">
+													<a href="https://bit.ly/AdvancedHostingCart" target="_blank" class="btn btn-sm btn-rs-primary" style="margin:0px;font-size:100%;font-weight:600;">
 														Purchase Now
 													</a>
 												</p>
@@ -48,12 +48,12 @@
 												<p><strong>Type:</strong> WHMCS Order Form / <a href="/#category-filter:path=.whmcshostingcart|paging:number=16|paging:currentPage=0" target="_blank">Hosting Cart</a></p>
 												<p><strong>Doc Updated:</strong> 18 September 2019</p>
 												<p class="">
-													<a href="https://fliphostingcart.ractstudio.com" target="_blank" class="btn btn-sm btn-rs-primary" style="margin:0px;font-size:100%;font-weight:600;">
+													<a href="https://advancedhostingcart.ractstudio.com" target="_blank" class="btn btn-sm btn-rs-primary" style="margin:0px;font-size:100%;font-weight:600;">
 														Live Preview
 													</a>
 												</p>
 												<p class="hidden-sm hidden-md hidden-lg">
-													<a href="https://bit.ly/FlipHostingCart" target="_blank" class="btn btn-sm btn-rs-primary" style="margin:0px;font-size:100%;font-weight:600;">
+													<a href="https://bit.ly/AdvancedHostingCart" target="_blank" class="btn btn-sm btn-rs-primary" style="margin:0px;font-size:100%;font-weight:600;">
 														Purchase Now
 													</a>
 												</p>
@@ -72,11 +72,11 @@
             <h2 id="introduction-product-description" style="width:0;height:0;margin:0;padding:0;line-height:0;"></h2>
 			
             <p class="lead">
-				<a href="https://bit.ly/FlipHostingCart" target="_blank"> Flip Hosting Cart – WHMCS Order Form Template</a> is a high quality, native, responsive, smart and complete <a href="https://www.whmcs.com/" target="_blank">WHMCS</a> order form template, created by experienced <a href="https://www.whmcs.com/" target="_blank">WHMCS</a> developers. It loads all order form pages very fast and securely than other similar order form template available on the market today. This order form template is based on <a href="https://docs.whmcs.com/Standard_Order_Form_Templates" target="_blank">WHMCS - "Standard Cart"</a>.
+				<a href="https://bit.ly/AdvancedHostingCart" target="_blank"> Advanced Hosting Cart – WHMCS Order Form Template</a> is a high quality, native, responsive, smart and complete <a href="https://www.whmcs.com/" target="_blank">WHMCS</a> order form template, created by experienced <a href="https://www.whmcs.com/" target="_blank">WHMCS</a> developers. It loads all order form pages very fast and securely than other similar order form template available on the market today. This order form template is based on <a href="https://docs.whmcs.com/Standard_Order_Form_Templates" target="_blank">WHMCS - "Standard Cart"</a>.
 			</p>
 			
             <p class="lead">
-				<img alt="Product Preview" src="/fliphostingcart/img/HostingCartPreviewImage-Flip-1180x600.png" class="img-responsive img-rounded">
+				<img alt="Product Preview" src="/advancedhostingcart/img/HostingCartPreviewImage-Advanced-1180x600.png" class="img-responsive img-rounded">
 			</p>
 			
             <p class="lead">
@@ -84,7 +84,7 @@
 			</p>
 			
             <p class="lead">
-				We glad that you liked our product. Please, rate our products on <a href="https://bit.ly/FlipHostingCart" target="_blank"> Codecanyon</a> and <a href="https://marketplace.whmcs.com/product/3897" target="_blank"> WHMCS Marketplace</a>.
+				We glad that you liked our product. Please, rate our products on <a href="https://bit.ly/AdvancedHostingCart" target="_blank"> Codecanyon</a> and <a href="https://marketplace.whmcs.com/product/3897" target="_blank"> WHMCS Marketplace</a>.
 			</p>
 			
 			
@@ -174,11 +174,11 @@
 			</div>
 			
             <p class="lead">
-				<img alt="Product Compatibility" src="/fliphostingcart/img/Flip_Hosting_Cart_WHMCS_Compatibility-1232x552.png" class="img-responsive img-rounded">
+				<img alt="Product Compatibility" src="/advancedhostingcart/img/Advanced_Hosting_Cart_WHMCS_Compatibility-1232x552.png" class="img-responsive img-rounded">
 			</p>
 			
 			<div class="bs-callout bs-callout-warning" id="callout-product-codecanyon-link">
-				<h4>Not yet purchased this product! Please purchase it from <a href="https://bit.ly/FlipHostingCart" target="_blank">Codecanyon</a>.</h4>
+				<h4>Not yet purchased this product! Please purchase it from <a href="https://bit.ly/AdvancedHostingCart" target="_blank">Codecanyon</a>.</h4>
 			</div>
 			
 			
@@ -252,8 +252,8 @@
 			</p>
 			
 			<div class="alert text-center" style="border:solid 1px rgba(189, 189, 189,0.8);">
-				<h3>Codecanyon purchase link of Flip Hosting Cart</h3>
-				<a class="btn btn-rs-download btn-lg" href="https://bit.ly/FlipHostingCart" target="_blank"><strong>Purchase Now</strong></a>
+				<h3>Codecanyon purchase link of Advanced Hosting Cart</h3>
+				<a class="btn btn-rs-download btn-lg" href="https://bit.ly/AdvancedHostingCart" target="_blank"><strong>Purchase Now</strong></a>
 			</div>
 			
 			<div class="bs-callout bs-callout-warning" id="callout-product-purchase-note">
@@ -344,7 +344,7 @@
 					  <th scope="row">01</th>
 					  <td>demo@ractstudio.com</td>
 					  <td>Demo1234</td>
-					  <td><a href="https://fliphostingcart.ractstudio.com/clientarea.php" target="_blank"><strong>Login Page Link</strong></a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/clientarea.php" target="_blank"><strong>Login Page Link</strong></a></td>
 					</tr>
 				  </tbody>
 				</table>
@@ -352,7 +352,7 @@
 			
 			<div class="alert text-center" style="border:solid 1px rgba(189, 189, 189,0.8);">
 				<h4>One Click Demo User Account Login</h4>
-				<a class="btn btn-rs-primary btn-md" href="https://fliphostingcart.ractstudio.com/dologin.php?username=demo%40ractstudio.com&password=Demo1234" target="_blank"><strong>One Click Login</strong></a>
+				<a class="btn btn-rs-primary btn-md" href="https://advancedhostingcart.ractstudio.com/dologin.php?username=demo%40ractstudio.com&password=Demo1234" target="_blank"><strong>One Click Login</strong></a>
 			</div>
 			
 			<div class="alert text-center" style="background-color:rgba(200,200, 200,0.4);border:solid 1px background-color:rgba(200,250, 200,0.2);padding-top:10px;padding-bottom:0px;padding-left:0;padding-right:0;">
@@ -370,79 +370,79 @@
 				  <tbody>
 					<tr>
 					  <th scope="row">01</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=2" target="_blank">Shared Hosting</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=2" target="_blank">Shared Hosting</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">02</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=3" target="_blank">One Hosting Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=3" target="_blank">One Hosting Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">03</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=4" target="_blank">Two Hosting Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=4" target="_blank">Two Hosting Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">04</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=5" target="_blank">Three Hosting Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=5" target="_blank">Three Hosting Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">05</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=6" target="_blank">Four Hosting Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=6" target="_blank">Four Hosting Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">06</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=11" target="_blank">Six Hosting Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=11" target="_blank">Six Hosting Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">07</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=13" target="_blank">Eight Hosting Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=13" target="_blank">Eight Hosting Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">08</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=7" target="_blank">VPS Server Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=7" target="_blank">VPS Server Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">09</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=8" target="_blank">Dedicated Server Package</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=8" target="_blank">Dedicated Server Package</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">10</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=1" target="_blank">Sample of Product Group Features</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=1" target="_blank">Sample of Product Group Features</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">11</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=9" target="_blank">Sample of Product with Images</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=9" target="_blank">Sample of Product with Images</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">12</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=14" target="_blank">STANDARD CART Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=14" target="_blank">STANDARD CART Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">13</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=15" target="_blank">MODERN Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=15" target="_blank">MODERN Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">14</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=16" target="_blank">CLOUD SLIDER Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=16" target="_blank">CLOUD SLIDER Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">15</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=17" target="_blank">UNIVERSAL SLIDER Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=17" target="_blank">UNIVERSAL SLIDER Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">16</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=18" target="_blank">BOXES Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=18" target="_blank">BOXES Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">17</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=19" target="_blank">PREMIUM COMPARISON Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=19" target="_blank">PREMIUM COMPARISON Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">18</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=20" target="_blank">PURE COMPARISON Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=20" target="_blank">PURE COMPARISON Order Form</a> - Alongside</td>
 					</tr>
 					<tr>
 					  <th scope="row">19</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=21" target="_blank">SUPREME COMPARISON Order Form</a> - Alongside</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=21" target="_blank">SUPREME COMPARISON Order Form</a> - Alongside</td>
 					</tr>
 				  </tbody>
 				</table>
@@ -463,15 +463,15 @@
 				  <tbody>
 					<tr>
 					  <th scope="row">01</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?a=add&domain=register" target="_blank">Register a New Domain</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?a=add&domain=register" target="_blank">Register a New Domain</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">02</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?a=add&domain=transfer" target="_blank">Transfer Domains to Us</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?a=add&domain=transfer" target="_blank">Transfer Domains to Us</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">03</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart/domain/renew" target="_blank">Domain Renewals</a> - login required</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart/domain/renew" target="_blank">Domain Renewals</a> - login required</td>
 					</tr>
 				  </tbody>
 				</table>
@@ -492,7 +492,7 @@
 				  <tbody>
 					<tr>
 					  <th scope="row">01</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?gid=addons" target="_blank">Product Addons</a> - login required</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?gid=addons" target="_blank">Product Addons</a> - login required</td>
 					</tr>
 				  </tbody>
 				</table>
@@ -514,15 +514,15 @@
 				  <tbody>
 					<tr>
 					  <th scope="row">01</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/" target="_blank">Choose a Domain...</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/" target="_blank">Choose a Domain...</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">02</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/" target="_blank">Products Configuration</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/" target="_blank">Products Configuration</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">03</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/" target="_blank">Domains Configuration</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/" target="_blank">Domains Configuration</a></td>
 					</tr>
 				  </tbody>
 				</table>
@@ -544,27 +544,27 @@
 				  <tbody>
 					<tr>
 					  <th scope="row">01</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?a=view" target="_blank">Review & Checkout</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?a=view" target="_blank">Review & Checkout</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">02</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?promocode=RS40" target="_blank">Add promo code with a link</a> - RS40</td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?promocode=RS40" target="_blank">Add promo code with a link</a> - RS40</td>
 					</tr>
 					<tr>
 					  <th scope="row">03</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?a=add&pid=3" target="_blank">Add Product with a link</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?a=add&pid=3" target="_blank">Add Product with a link</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">04</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?a=add&pid=3&promocode=RS40 " target="_blank">Add Product and Promo Code with a link</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?a=add&pid=3&promocode=RS40 " target="_blank">Add Product and Promo Code with a link</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">05</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php?a=add&domain=register&sld=googlgftere&tld=.info" target="_blank">Add Domain with a link</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php?a=add&domain=register&sld=googlgftere&tld=.info" target="_blank">Add Domain with a link</a></td>
 					</tr>
 					<tr>
 					  <th scope="row">06</th>
-					  <td><a href="https://fliphostingcart.ractstudio.com/cart.php" target="_blank">Shopping Cart Home</a></td>
+					  <td><a href="https://advancedhostingcart.ractstudio.com/cart.php" target="_blank">Shopping Cart Home</a></td>
 					</tr>
 				  </tbody>
 				</table>
@@ -631,7 +631,7 @@
             <h1 id="installation"><text class="swatch-info-text">#04.0</text> Installation</h1>
 			
 			<p class="lead">
-				<a href="https://bit.ly/FlipHostingCart" target="_blank"><strong>Flip Hosting Cart</strong></a> – <strong>WHMCS Order Form Template</strong> is very easy to install and use. Unzip the downloaded <code>FlipHostingCart.zip</code> file and you will get  various files including this documentation's direct link. There is a directory/folder as <code>orderforms</code>, Go into that <code>orderforms</code> directory/folder and upload all <code>flip_hosting_cart</code> files from there to your whmcs site's hosting <code>whmcs root directory > templates > orderforms</code> using a FTP/cPanel/SSH/Other program. Go to your WHMCS Admin Area. From the upper top menu, browse <code>Setup > General Settings</code>. Then use the <code>Ordering</code> tab and select the <code>Flip Hosting Cart</code> as your default order form for all of your products and <strong>Save the Changes</strong> of your settings. The installation is completed successfully.
+				<a href="https://bit.ly/AdvancedHostingCart" target="_blank"><strong>Advanced Hosting Cart</strong></a> – <strong>WHMCS Order Form Template</strong> is very easy to install and use. Unzip the downloaded <code>AdvancedHostingCart.zip</code> file and you will get  various files including this documentation's direct link. There is a directory/folder as <code>orderforms</code>, Go into that <code>orderforms</code> directory/folder and upload all <code>advanced_hosting_cart</code> files from there to your whmcs site's hosting <code>whmcs root directory > templates > orderforms</code> using a FTP/cPanel/SSH/Other program. Go to your WHMCS Admin Area. From the upper top menu, browse <code>Setup > General Settings</code>. Then use the <code>Ordering</code> tab and select the <code>Advanced Hosting Cart</code> as your default order form for all of your products and <strong>Save the Changes</strong> of your settings. The installation is completed successfully.
 			</p>
 			
 			
@@ -639,7 +639,7 @@
             <h2 id="installation-cpanel"><text class="swatch-info-text">#04.1</text> cPanel</h2>
 			
 			<p class="rs-lead">
-				<strong>If you</strong> know that how <strong>cPanel</strong> and <strong>WHMCS</strong> work, then installing <strong>RactStudio's Order Form</strong> is very easy for you. Follow the instructions below and you will be able to install the <strong>Flip Hosting Cart</strong> order form within a few minutes.
+				<strong>If you</strong> know that how <strong>cPanel</strong> and <strong>WHMCS</strong> work, then installing <strong>RactStudio's Order Form</strong> is very easy for you. Follow the instructions below and you will be able to install the <strong>Advanced Hosting Cart</strong> order form within a few minutes.
 			</p>
 			
 			<p class="rs-lead">
@@ -659,7 +659,7 @@
             <h2 id="installation-ftp"><text class="swatch-info-text">#04.2</text> FTP</h2>
 			
 			<p class="rs-lead">
-				<strong>If you</strong> know that how <strong>FTP</strong> and <strong>WHMCS</strong> works, then installing <strong>RactStudio's Order Form</strong> is not a rocket science for you. Follow the instructions below and you will be able to set up the <strong>Flip Hosting Cart</strong> order form within a short time.
+				<strong>If you</strong> know that how <strong>FTP</strong> and <strong>WHMCS</strong> works, then installing <strong>RactStudio's Order Form</strong> is not a rocket science for you. Follow the instructions below and you will be able to set up the <strong>Advanced Hosting Cart</strong> order form within a short time.
 			</p>
 			
 			<p class="rs-lead">
@@ -679,7 +679,7 @@
             <h2 id="installation-ssh"><text class="swatch-info-text">#04.3</text> SSH</h2>
 			
 			<p class="rs-lead">
-				<strong>If you</strong> know that how <strong>SSH</strong> and <strong>WHMCS</strong> works, then installing <strong>RactStudio's Order Form</strong> is not a rocket science for you. Follow the instructions below and you will be able to set up the <strong>Flip Hosting Cart</strong> order form within a short time.
+				<strong>If you</strong> know that how <strong>SSH</strong> and <strong>WHMCS</strong> works, then installing <strong>RactStudio's Order Form</strong> is not a rocket science for you. Follow the instructions below and you will be able to set up the <strong>Advanced Hosting Cart</strong> order form within a short time.
 			</p>
 			
 			<p class="rs-lead">
@@ -739,7 +739,7 @@
             <h2 id="pricing-chart-text-format"><text class="swatch-info-text">#05.2</text> Text Format</h2>
 			
 			<p class="rs-lead">
-				<strong>Product description</strong> can be formatted in various ways for the Flip Hosting Cart order form. Please follow below format options to format the Text of your product description.
+				<strong>Product description</strong> can be formatted in various ways for the Advanced Hosting Cart order form. Please follow below format options to format the Text of your product description.
 			</p>
 
 			<div class="bs-callout bs-callout-info" id="callout-pricing-chart-text-format-note">
@@ -795,7 +795,7 @@
             <h2 id="background-images-headers"><text class="swatch-info-text">#06.1</text> Header's Background Image</h2>
 			
 			<p class="rs-lead">
-				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > flip_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_pages_header.jpg</code> image with your new image.
+				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > advanced_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_pages_header.jpg</code> image with your new image.
 			</p>
 			
 			<div class="bs-callout bs-callout-info" id="callout-installation-premium-note">
@@ -807,7 +807,7 @@
             <h2 id="background-images-domain-register"><text class="swatch-info-text">#06.2</text> Domain Register Background Image</h2>
 			
 			<p class="rs-lead">
-				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > flip_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_domain_register.jpg</code> image with your new image.
+				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > advanced_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_domain_register.jpg</code> image with your new image.
 			</p>
 			
 			<div class="bs-callout bs-callout-info" id="callout-installation-premium-note">
@@ -819,7 +819,7 @@
             <h2 id="background-images-domain-transfer"><text class="swatch-info-text">#06.3</text> Domain Transfer Background Image</h2>
 			
 			<p class="rs-lead">
-				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > flip_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_domain_transfer.jpg</code> image with your new image.
+				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > advanced_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_domain_transfer.jpg</code> image with your new image.
 			</p>
 			
 			<div class="bs-callout bs-callout-info" id="callout-installation-premium-note">
@@ -831,7 +831,7 @@
             <h2 id="background-images-choose-domain"><text class="swatch-info-text">#06.4</text> Choose a Domain. Background Image</h2>
 			
 			<p class="rs-lead">
-				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > flip_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_configure_product_domain.jpg</code> image with your new image.
+				<strong>Navigate to</strong> <code>whmcs root directory > templates > orderforms > advanced_hosting_cart > img</code> <strong>And</strong>, change/replace the <code>bg_configure_product_domain.jpg</code> image with your new image.
 			</p>
 			
 			<div class="bs-callout bs-callout-info" id="callout-installation-premium-note">
@@ -1185,7 +1185,7 @@
 			</p>
 
 			<p class="rs-lead">
-				<strong>Please make</strong> sure to update the product. Also, remember that if you had made any changes to your previous Flip hosting Cart order form templates, then it will not exist when you update this product. This is a completely new version of this product with many new features and functionality. Please, make sure to update the product as soon possible.
+				<strong>Please make</strong> sure to update the product. Also, remember that if you had made any changes to your previous Advanced hosting Cart order form templates, then it will not exist when you update this product. This is a completely new version of this product with many new features and functionality. Please, make sure to update the product as soon possible.
 			</p>
 			
 			
@@ -1237,7 +1237,7 @@
 			</p>
 
 			<p class="rs-lead">
-				<strong>Flip Hosting Cart</strong>'s Codecanyon product page is here and There WHMCS Marketplace product page is here. Thank you so much for your valuable rating for this product.
+				<strong>Advanced Hosting Cart</strong>'s Codecanyon product page is here and There WHMCS Marketplace product page is here. Thank you so much for your valuable rating for this product.
 			</p>
 			
 			
