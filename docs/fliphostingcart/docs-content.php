@@ -34,7 +34,7 @@
 									<div class="col-xs-12 col-sm-12">
 										<div class="row" style="margin-top:10px;">
 											<div class="col-xs-12 col-sm-5">
-												<p><strong>Release Date:</strong> 04 October 2018 </p>
+												<p><strong>Release Date:</strong> 20 October 2017 </p>
 												<p><strong>Last Updated:</strong> 13 September 2019</p>
 												<p><strong>Software Version:</strong> v4.0.0</p>
 												<p class="hidden-xs hidden-print">
