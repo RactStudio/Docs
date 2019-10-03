@@ -380,8 +380,8 @@
 
 				<div class="list row">
 					
-					<!-- jplist Products List -->
-					<div rs-include-html="products-list.php"></div>
+					<!-- jplist Products List
+					<div rs-include-html="products-list.php"></div> -->
 					
 				<!-- 01 / WHMCS - Hosting Cart (Order Forms) -->
 					<!-- item 1 -->
